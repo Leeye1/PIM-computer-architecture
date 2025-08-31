@@ -10,11 +10,9 @@ We extended the ISA, implemented compiler support, and evaluated performance usi
 - `demo/` – Video demonstrations of running benchmarks
 - `results/` – Benchmark outputs and visualization (Excel + figures)
 - `slides/` – Presentation slides with methodology and results
-- `docs/` – Project website (GitHub Pages)
 
 ## Results
 Key benchmark results and visualization are in [`results/`](./results).  
-A full overview is also available on the [GitHub Page](https://your-username.github.io/pim-computer-architecture).
 
 ## Tech Stack
 - GEM5
